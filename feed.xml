@@ -1,7 +1,577 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[JakeWrite RSS Feed]]></title><description><![CDATA[JakeWrite RSS Feed]]></description><link>http://jakewrite.com/</link><generator>metalsmith-feed</generator><lastBuildDate>Mon, 19 Dec 2016 21:35:26 GMT</lastBuildDate><atom:link href="http://jakewrite.com/feed.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[&copy; 2016 JakeWrite]]></copyright><language><![CDATA[English]]></language><item><title><![CDATA[Build Your Club Website with Metalsmith - Part 3]]></title><description><![CDATA[In part 2 of this guide, we looked at building the layout templates which form the basic structure of pages on our club's website.  Now we will look...]]></description><link>http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-3</link><guid isPermaLink="true">http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-3</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Build Your Club Website with Metalsmith - Part 4]]></title><description><![CDATA[_**In part 3 we built our club's website for the first time.  However, although we could navigate between pages, it still looked like a website from...]]></description><link>http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-4</link><guid isPermaLink="true">http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-4</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Build Your Club Website with Metalsmith - Part 2]]></title><description><![CDATA[In part 1 we installed and set up our Metalsmith environment.  Now we are ready to start getting our hands dirty with learning how to create our...]]></description><link>http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-2</link><guid isPermaLink="true">http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-2</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[What is an eform?]]></title><description><![CDATA[Like email,  the word eform is the result of the digitisation of a traditional item by sticking an 'e' for electronic in front of it. Just as emails...]]></description><link>http://jakewrite.com/posts/what-is-an-eform</link><guid isPermaLink="true">http://jakewrite.com/posts/what-is-an-eform</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Build Your Club Website with Metalsmith - Part 1]]></title><description><![CDATA[Most web officers of new clubs tend to opt for a CMS like Wordpress to manage their club's website.
-Some may choose a hosted solution from the likes...]]></description><link>http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-1</link><guid isPermaLink="true">http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-1</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Freelancing is the Future!]]></title><description><![CDATA[Public sector cuts and smaller private sector budgets have forced many people away from 9 to 5 jobs with no option but to be self-employed or the dole...]]></description><link>http://jakewrite.com/posts/freelancing-is-the-future</link><guid isPermaLink="true">http://jakewrite.com/posts/freelancing-is-the-future</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Secure Your Web Site Like Your House]]></title><description><![CDATA[Securing a web application is like locking up your house. Would you leave your doors unlocked when you are not at home? Just as houses are located in...]]></description><link>http://jakewrite.com/posts/secure-your-web-site-like-your-house</link><guid isPermaLink="true">http://jakewrite.com/posts/secure-your-web-site-like-your-house</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Supercharge Your Blog!]]></title><description><![CDATA[
-Is your blog in need of a makeover?
-Are your visitors reporting that it is slow?
-Do you want people to see it on their phones and tablets?]]></description><link>http://jakewrite.com/posts/supercharge-your-blog</link><guid isPermaLink="true">http://jakewrite.com/posts/supercharge-your-blog</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Ten Tips for Designing Great Web Apps]]></title><description><![CDATA[The success of a web application depends on it providing a great user experience. You don't want to frustrate new visitors so they give up and go...]]></description><link>http://jakewrite.com/posts/ten-tips-for-designing-great-web-apps</link><guid isPermaLink="true">http://jakewrite.com/posts/ten-tips-for-designing-great-web-apps</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Static Web Sites vs CMS]]></title><description><![CDATA[Static web sites have been around since the start of the World Wide Web in the early 1990s. They are simply a collection of text files marked up as...]]></description><link>http://jakewrite.com/posts/static-web-sites-vs-cms</link><guid isPermaLink="true">http://jakewrite.com/posts/static-web-sites-vs-cms</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Checklist for Web Applications.]]></title><description><![CDATA[Web applications are complex entities which  involve many different kinds of technologies working together to deliver a good user experience. Just...]]></description><link>http://jakewrite.com/posts/checklist-for-web-applications</link><guid isPermaLink="true">http://jakewrite.com/posts/checklist-for-web-applications</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[Back to the Future Part IV]]></title><description><![CDATA[One of my favourite films from the 1980s are the Back to the Future trilogy. The science of time travel is brilliantly simplified to the level of...]]></description><link>http://jakewrite.com/posts/back-to-the-future-part-iv</link><guid isPermaLink="true">http://jakewrite.com/posts/back-to-the-future-part-iv</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item><item><title><![CDATA[My new writing blog]]></title><description><![CDATA[Hello and welcome to my new writing blog!
-What are you thinking? Not another writing blog!  There are so many blogs from writers on the Internet, but...]]></description><link>http://jakewrite.com/posts/my-new-writing-blog</link><guid isPermaLink="true">http://jakewrite.com/posts/my-new-writing-blog</guid><dc:creator><![CDATA[Jake Bourne]]></dc:creator></item></channel></rss>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Drive Free Walks</title>
+    <description>Do you love walking but find driving really stressful? This blog is all about walking without needing to drive to a great country walk.  All the walks we do can be reached by bus or train.
+</description>
+    <link>http://www.drivefreewalks.org.uk/</link>
+    <atom:link href="http://www.drivefreewalks.org.uk/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jan 2016 00:25:28 +0000</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 00:25:28 +0000</lastBuildDate>
+    <generator>Jekyll v3.0.0</generator>
+    
+      <item>
+        <title>Using the Traveline app to plan your walk</title>
+        <description>&lt;p&gt;The Traveline app is key ingredient to planning a drive-free walk.&lt;/p&gt;
+
+&lt;h2 id=&quot;journey-planner&quot;&gt;Journey Planner&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/traveline-planner-sml.png&quot; alt=&quot;&amp;quot;Journey Planner&amp;quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The journey planner naturally lets you type the start and end points for your journey. You only need a few characters before it starts to bring back the bus stops around the area.&lt;/p&gt;
+
+&lt;h2 id=&quot;favourite-bus-stops&quot;&gt;Favourite Bus Stops&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/traveline-favstops-sml.png&quot; alt=&quot;Favouite Bus Stops&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;This is a great feature to help you locate bus times at your regular stops. Just select a stop and it will show you all the buses which are due to stop there in the next hour.&lt;/p&gt;
+
+&lt;h2 id=&quot;bus-stop-finder&quot;&gt;Bus Stop Finder&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/images/traveline-neareststops-sml.png&quot; alt=&quot;Nearest Stops&quot; /&gt;
+Have you ever not been able to find a bus stop. Sometimes they are not at the exact location on the route map or the stop on the return route may not be immediately opposite.&lt;/p&gt;
+
+&lt;h2 id=&quot;disruptions&quot;&gt;Disruptions&lt;/h2&gt;
+</description>
+        <pubDate>Thu, 14 Jan 2016 00:00:00 +0000</pubDate>
+        <link>http://www.drivefreewalks.org.uk/blog/traveline-app/</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/blog/traveline-app/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Bridging the Rhondda and Dare Valleys</title>
+        <description>&lt;p&gt;Starting at Cardiff Central, I took the 10:06 train to Treherbert.  After passing through Pontypridd station I noticed when the train entered &lt;!-- more --&gt; the Rhondda valley by station names like Trehafod, Porth, Tonypandy and Llwyn-y-pia.  The train paused at Dinas Rhondda station as the double-track line reduced to single track.  This required the driver to emerge from his cab to enter a small kiosk on the platform where he would phone for a token to allow the train to proceed on to the single track section.  It only proved as a reminder to the lack of funding in Wales for a modern railway. A passenger arriving in Wales from London must feel like the Severn Tunnel is some kind of time warp!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/rhondda-dare/Treherbert-1.jpg&quot; alt=&quot;Treherbert&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The train passed through Treorchy, the home of the famous Male Voice choir. Just one stop at Ynyswen before the train finally reached the end of the track at Treherbert at the head of the Rhondda valley.  From here, the track used to continue to loop around to the east to go under the mountains via the &lt;strong&gt;Rhonnda Tunnel&lt;/strong&gt; which linked the Rhondda to the Llynfi valley.  The tunnel is now buried and the track removed, although there are hopes that the tunnel can be reopened as a cycle tunnel.&lt;/p&gt;
+
+&lt;p&gt;The station at Treherbert was not typical of a terminus station - with only a ticket kiosk and toilets available for passengers.  I walked straight on to the street to start walking through the streets of Treherbert.  I headed towards Penpych mountain which is distinctive with its flat plateau summit.&lt;/p&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/01.jpg&quot; /&gt;
+  &lt;figcaption&gt;1. On leaving Treherbert Station, cross the road and take the first left. Follow this road to the end and round to the right.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/02.jpg&quot; /&gt;
+  &lt;figcaption&gt;2. Cross the bridge over a stream and turn left. Follow the path to a main road and turn left. You will see a sign for the neighbouring village of Tynewydd.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/03.jpg&quot; /&gt;
+  &lt;figcaption&gt;3. Walk along the road until you reach the Wyndham pub. You will see the impressive flat top of Penpych Mountain in the distance.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/04.jpg&quot; /&gt;
+  &lt;figcaption&gt;4. Turn right before the Wyndham pub and follow the road around to the left. When you reach some metal sheds, turn right.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/05.jpg&quot; /&gt;
+  &lt;figcaption&gt;5. Cross the stile on the left side of the gate and follow the path around to the left and up the bank.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/06.jpg&quot; /&gt;
+  &lt;figcaption&gt;6. The path goes up the bank to the left and then to the right, to bring you onto the footpath going up the hill. Follow this footpath uphill, crossing one stile, until you reach a junction point before a lot of bracken.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/07.jpg&quot; /&gt;
+  &lt;figcaption&gt;7. Proceed up the hill which will be covered with high ferns in the summer months and bear in the winter. Head for the right of the telegraph poles. There should be very faint signs of a footpath. Be careful of any sudden height changes in the ground.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/08.jpg&quot; /&gt;
+  &lt;figcaption&gt;8. Once clear of the ferns, walk up to the mound. Take the path to the right of the rocks to climb the mound. You will emerge by a sharp bend in a main road and a bench looking out over Treherbert.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/09.jpg&quot; /&gt;
+  &lt;figcaption&gt;9. Cross the road and head up the grass track. This goes up to the left, then it will bend back to the right and then to the left again, to emerge at a T-junction. Turn right here to continue heading up the valley.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/10.jpg&quot; /&gt;
+  &lt;figcaption&gt;10. Keep along the path on the edge of the valley, with a wooded area to your left and a stream in the valley below on your right. You may also notice the wreckage of a white car.
+  &lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/11.jpg&quot; /&gt;
+  &lt;figcaption&gt;11. As you approach the top of the valley, you will notice a wooded area ahead of you. At a convenient point traverse the valley, crossing two streams. Take care as the land is very bumpy and difficult to see in the long grass. Head for the gap in the trees as in the photo.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/12.jpg&quot; /&gt;
+  &lt;figcaption&gt;12. Carry on through this path through the trees for approximately 100m until you see an opening heading uphill on the left. Proceed uphill to a wide gravel track.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/13.jpg&quot; /&gt;
+  &lt;figcaption&gt;13. Turn left and walk along the track.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/14.jpg&quot; /&gt;
+  &lt;figcaption&gt;14. As the track bends towards the left, take the more grassy track which branches right to continue straight along up the hill.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/15.jpg&quot; /&gt;
+  &lt;figcaption&gt;15. The track now emerges into a clearing where you will notice a triangulation point. At 516m, this is the high point of the walk. From the original path, proceed to the right to the trees at the edge.
+&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/16.jpg&quot; /&gt;
+  &lt;figcaption&gt;16. Turn right and start to follow the main track back down the hill, but quickly branch off to the left when you see a narrow opening in the trees. Proceed down this corridor in the forest.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/17.jpg&quot; /&gt;
+  &lt;figcaption&gt;17. Cross the stream using the railway sleeper-made bridge and proceed through the tree-lined corridor.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/18.jpg&quot; /&gt;
+  &lt;figcaption&gt;18. At this point the path will emerge next to a wide gravel track. You have the option of following the track around, or proceeding on the grass to the far opening. If you take the path, be sure to look out for openings in the forest so you can rejoin the route.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/19.jpg&quot; /&gt;
+  &lt;figcaption&gt;19. If you proceeded through the forest from the last point, you will now emerge onto the same gravel track. Cross straight over and continue through the forest. If you chose to walk along the gravel track, turn right at this point.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/20.jpg&quot; /&gt;
+  &lt;figcaption&gt;20. The corridor now emerges into a clearing. Head carefully downhill to the path below, which continues slightly to the left.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/21.jpg&quot; /&gt;
+  &lt;figcaption&gt;21. Eventually the path will leave the forest at an old stone-arched bridge over a stream. Cross the bridge to the other side. This is about the halfway point, so you may like to use this opportunity to replenish your energy.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/22.jpg&quot; /&gt;
+  &lt;figcaption&gt;22. Cross the bridge, then the road. A water pipe runs down on the far side of the road from a reservoir. Where you see a black footprint on a white background painted on the pipe, step over and continue uphill on the path to your right. This is the Coed Morgannwg Trail, which is marked by the black footprints on waymark posts.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/23.jpg&quot; /&gt;
+&lt;figcaption&gt;23. Proceed under the double line of telegraph poles to the next waymark post.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/24.jpg&quot; /&gt;
+  &lt;figcaption&gt;24. Pass along the right edge of an old cattle-bathing pool. At each post, you should be able to see the next one in the distance. The trail is basically taking you towards a ridge, then bearing right along the edge.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/25.jpg&quot; /&gt;
+  &lt;figcaption&gt;25. Take the left-hand path to pass to the left of the waymark post. Follow the path along the edge of the hillside. On the left, you will notice spectacular views of the Dare Valley Country Park. If you turn around, you will see the cliff edge at the head of the valley.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/26.jpg&quot; /&gt;
+  &lt;figcaption&gt;26. Cross the stile and continue along the path.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/27.jpg&quot; /&gt;
+  &lt;figcaption&gt;27. The path gradually turns from a grassy track into a gravel one.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/28.jpg&quot; /&gt;
+  &lt;figcaption&gt;28. Leave the main gravel track by the path on the right. This will emerge into an open area.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/29.jpg&quot; /&gt;
+  &lt;figcaption&gt;29. Try and follow the path out into the open area, but try to bear left down the hill. You need aim to pick up a path to take you between the woods on your left and the slope of the hill on your right.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/30.jpg&quot; /&gt;
+  &lt;figcaption&gt;30. Pass through the woods to emerge into a large open field. Continue diagonally across the field to join a path at the far edge. Turn left on the path and head downhill to a tarmac road. A camp-site is on the other side of the road.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/31.jpg&quot; /&gt;
+  &lt;figcaption&gt;31. Turn right and walk along the road for approximately half a mile.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/32.jpg&quot; /&gt;
+  &lt;figcaption&gt;32. Look out for where the road crosses a bridge with black iron railings. Locate a path on the left which leads down onto a path heading through the woods.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/33.jpg&quot; /&gt;
+  &lt;figcaption&gt;33. Walk along the path through the woods. It will gradually head downhill. Try to keep to the left, as it does tend to branch off into the woods.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/34.jpg&quot; /&gt;
+  &lt;figcaption&gt;34. The wooded path will emerge onto a tarmac cycle track which used to be the bed of an old canal. Turn right and you will pass between the high walls of an old lock.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+
+&lt;div&gt;
+&lt;figure&gt;
+  &lt;img src=&quot;/assets/images/rhondda-dare/35.jpg&quot; /&gt;
+  &lt;figcaption&gt;35. Follow the track until you reach a modern wooden bridge across the Dare River to arrive in Aberdare. Cross the car park next to the job centre and walk down the high street to the other side of town, which is where the railway station is located.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 28 Nov 2015 00:00:00 +0000</pubDate>
+        <link>http://www.drivefreewalks.org.uk/walk/rhondda-dare-traversal/</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/walk/rhondda-dare-traversal/</guid>
+        
+        
+        <category>walk</category>
+        
+      </item>
+    
+      <item>
+        <title>Penarth Cliff-top walk</title>
+        <description>&lt;p&gt;&lt;strong&gt;Start:&lt;/strong&gt; Penarth railway station.
+&lt;strong&gt;Distance:&lt;/strong&gt; 4 miles (there and back).&lt;/p&gt;
+
+&lt;p&gt;Very close to Penarth station is the cliff-top walk which has excellent views across the Bristol Channel.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/flatholm-steepholm.jpg&quot; data-lightbox=&quot;penarthclifftop&quot; data-title=&quot;Flatholm and Steepholm islands from the cliff-top path&quot;&gt;
+  &lt;img src=&quot;/assets/images/flatholm-steepholm_small.jpg&quot; alt=&quot;Flatholm and Steepholm islands from the cliff-top path&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Today you could see Weston-Super-Mare, Avonmouth and both Flatholm and Steepholm islands.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/flatholm-closeup.jpg&quot; data-lightbox=&quot;penarthclifftop&quot; data-title=&quot;A close-up of Flatholm island&quot;&gt;
+  &lt;img src=&quot;/assets/images/flatholm-closeup_small.jpg&quot; alt=&quot;A close-up of Flatholm island&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Turning back at Lavernock Point you get views of The Victorian Penarth pier, Cardiff and Neeport docks.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/penarthpier.jpg&quot; data-lightbox=&quot;penarthclifftop&quot; data-title=&quot;Penarth Pier&quot;&gt;
+  &lt;img src=&quot;/assets/images/penarthpier_small.jpg&quot; alt=&quot;Penarth Pier&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 16 Aug 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/walk/2015/08/16/penarth-clifftop.html</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/walk/2015/08/16/penarth-clifftop.html</guid>
+        
+        
+        <category>walk</category>
+        
+      </item>
+    
+      <item>
+        <title>Lunch-time walk in Bute Park</title>
+        <description>&lt;p&gt;One of the great things about working in the centre of Cardiff is being able to walk around Bute Park in my lunch break.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/butepark-lunchtime.jpg&quot; data-lightbox=&quot;buteparklunchtime&quot; data-title=&quot;Lunch-time walk in Bute Park&quot;&gt;
+  &lt;img src=&quot;/assets/images/butepark-lunchtime_small.jpg&quot; alt=&quot;Lunch-time walk in Bute Park&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I have experience the bare branched trees in the winter, blossoming trees in the spring, luscious green leaves in the summer and
+beautiful oranges and browns in the autuumn.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/cardiffcastle-animalwall.jpg&quot; data-lightbox=&quot;buteparklunchtime&quot; data-title=&quot;Cardiff Castle, from the animal wall&quot;&gt;
+  &lt;img src=&quot;/assets/images/cardiffcastle-animalwall_small.jpg&quot; alt=&quot;(Cardiff Castle, from the animal wall&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 05 Aug 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/blog/2015/08/05/lunchtimewalk-butepark.html</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/blog/2015/08/05/lunchtimewalk-butepark.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Lunch-time Walks...</title>
+        <description>&lt;p&gt;Do you work in a city centre?&lt;/p&gt;
+
+&lt;p&gt;Do you feel lethargic sitting at your desk all day without getting any exercise?
+&lt;!-- more --&gt;
+I enjoy my lunch-time walks around Cardiff city centre. I vary the routes daily so that it does not become too routine – just in case people start waiting for me on every Wednesday afternoon saying “oh look he’s about to pass again!”  My usual walk is down Queen Street, High Street and St. Mary Street, around the St. David’s Centre and then back up Churchill Way. One variation is simply the reverse route which is great when walking up St. Mary Street towards the gates of Cardiff Castle.  Another route is around the City Hall and National Museum area.&lt;/p&gt;
+
+&lt;p&gt;If I have sufficient flexi-time, then I venture into Bute Park for a stroll down the Taff trail.  I am planning some future walks making use of trains and buses  by  travelling one stop down the line and walking back to the office.  These are some of my future walking routes to try by train…&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Train to Cardiff Bay and walk back along the Atlantic Wharf dockside.&lt;/li&gt;
+  &lt;li&gt;Train to Heath High Level and walk back through Roath Park, then down Crwys road and City road.&lt;/li&gt;
+  &lt;li&gt;Train to Grangetown and walk back into the city centre.&lt;/li&gt;
+  &lt;li&gt;Walk through Bute Park to Llandaff and catch the bus back to the office.&lt;/li&gt;
+  &lt;li&gt;Take the bus up Cowbridge road to Victoria Park and walk back.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I hope to promote these on the health &amp;amp; wellbeing section of the office intranet to try and entice some staff to join me.&lt;/p&gt;
+
+&lt;p&gt;Do you have any favourite lunch-time walks around your office?   Let us know by posting a comment below…&lt;/p&gt;
+</description>
+        <pubDate>Thu, 23 Jul 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/blog/lunchtime-walks/</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/blog/lunchtime-walks/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>10 Drive-free Buggy Walks in South Wales</title>
+        <description>&lt;p&gt;Here are some great walks which are suitable for buggies and wheelchair users.  All are fully accessible by public transport, so if you would like to explore a different area just hop on a bus or train to walk in a different area.  The following areas are ideal for planning walks from one to six miles.
+&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Bute Park&lt;/strong&gt; is just a short walk up the river Taff from Cardiff Central station. Stretching from Cardiff Castle to Pontcanna, the park contains open spaces, good surfaced paths and many species of trees giving it status as an arboretum.  There are bus links all around the park so there are options for both linear and circular routes.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Grangemoor Park&lt;/strong&gt; is a disused landfill site which has been covered with clay and turned into a nature reserve.  Take the bus to Cardiff Bay Retail Park which runs parallel to one edge of the park.  From the highest point, you are rewarded with a 360 degree view including the Senedd, the Millennium Stadium, the Barrage and St. Augustine’s church on Penarth Head.  The Ely river runs by on one side of the park, so if you feel like a longer walk you can follow Ely Trail as far as the next retail park at Leckwith.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Roath Park&lt;/strong&gt; is a thin strip of land containing a Victorian boating lake.  The Scott memorial stands proudly at the head of the lake to commemorate the ill-fated Antarctic expedition.  There is a children’s adventure play area, a botanical garden and a natural woodland area at the far side of the lake.  There are bus stops all around the park which make it easily accessible from the city centre.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Cosmeston Lakes Country Park&lt;/strong&gt; is located just to the south of Penarth.  Originally an old quarry works, the twin quarries have now been filled with water to create a beautiful lakeland environment both for humans and for wildlife. You can walk around both lakes, complete a figure of eight or just relax on the grass feeding the ducks.  If you fancy a trip back in time, there is a life-size replica of a 14th century Medieval Village which you can walk around and experience how our ancestors used to live.&lt;/p&gt;
+
+    &lt;p&gt;To get there, take the #94 bus to Barry via Sully and alight right outside the main entrance to the park which is shortly after the Harvester pub.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Swansea Bay&lt;/strong&gt; is the gateway to the Gower peninsula.  The steel works of Port Talbot lie on one side, facing the tourist attractions of Mumbles on the other with the city of Swansea in the centre.  From Swansea railway station, head out of the city centre to the the Marina to find the start of  the cycle trail.  The cycle trail was built on the former route of the Swansea to Mumbles tramway which is famous as the first passenger rail service.  The views are staggering as you look ahead to Mumbles point with the pier and lifeboat station stretching out into the bay.&lt;/p&gt;
+
+    &lt;p&gt;The path to Mumbles is five miles long, but if you don’t feel you can walk the entire return trip, there are frequent bus stops along the main road running back to the city centre.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Forest Farm Nature Reserve&lt;/strong&gt; is a haven for several species of birds along one of the last remaining stretches of the old Glamorganshire canal which transported coal from the Valleys to Cardiff docks.   Take the train to Radyr station, cross over the footbridge over the river and continue to head into Forest Farm.  The Melingriffith feeder canal runs parallel to the main canal before heading off to link with the river.  The canal continues through the woodland, passing through the ruins of an old lock before finally being cut off by the M4.  Herons, kingfishers and families of ducks make this a popular destination for photographers.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Treforest to Llantrisant&lt;/strong&gt; is an east to west linear walk linking the Taff Valley to the foot of the Rhondda Valley.  There are spectacular views of Cardiff and the Vale of Glamorgan as the path runs parallell to the coastline. Take the #132 Stagecoach bus from Cardiff to Treforest, and return on the #122 bus from Talbot Green Retail Park at Llantrisant. The total length of the path is 6 miles, but you can always break the walk in Llantwit Fardre and take a bus to Pontypridd or Llantrisant.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Barry Island&lt;/strong&gt; used to be the location for the only Butlins Holiday Village in Wales. Now closed and the land redeveloped as housing, Barry Island is the closest sandy beach to Cardiff.  The train runs all the way from Cardiff to the island.  Walk along the promenade, passed the coffee shops and arcades to proceed out to the head point of the bay.&lt;/p&gt;
+
+    &lt;p&gt;In recent years Barry Island has received a massive boost to its tourism value owing much gratitude to the Gavin and Stacey sitcom.  During your walk, try to see how many references to the show you can spot.  Relax with a coffee or ice cream at Marco’s cafe but you’ll be lucky if you are served by Joanna Page (aka Stacey)!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Taffs Well to Caerphilly&lt;/strong&gt; is a small section of the Taff Trail which runs for 55 miles from Brecon to Cardiff.  The village of Taffs Well sits in between the Garth and Caerphilly mountains.  Infrastructure planners have fully taken advantage of the break in the high-level land created by the river.  Routes through the pass include a dual carriageway road and a double-track railway.  Another railway also used traversed the valley on the Walnut Tree viaduct, of which only one full pylon remains today.&lt;/p&gt;
+
+    &lt;p&gt;Take the train to Taffs Well and the Taff Trail (route 8) is well signposted opposite the main car park of the station.  There is a gentle gradient up hill, so be wary of cyclists free-wheeling downhill in the opposite direction.  When you reach the outer suburbs of Caerphilly, you can choose to continue on the east-west Celtic Trail (route 4) which will take you into the town centre.  The town centre is dominated by an impressive castle with a moat and drawbridge.  Also look out for the statue of Tommy Cooper who was born in Caerphilly – just like that!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Risca to Crosskeys&lt;/strong&gt; is a recently surfaced path running alongside a branch of the Brecon and Monmouthshire canal which runs from Crumlin to Newport.  Risca is located at the start of the Ebbw valley.  The town has experienced a lot of growth caused by its proximity to both Newport and Cardiff.
+From the railway station at Risca follow the signs for the canal which runs on an embankment above the town.  This makes for lovely views the valley to your left.  You may be passed by several mountain bikers as they make their way to and from the off-road trails of Cwmcarn Forest Drive.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        <pubDate>Fri, 17 Jul 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/blog/buggyfreewalks-cardiff/</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/blog/buggyfreewalks-cardiff/</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Radyr to Coryton, the Missing Link</title>
+        <description>&lt;p&gt;&lt;strong&gt;Start:&lt;/strong&gt; Radyr railway station
+&lt;strong&gt;End:&lt;/strong&gt; Coryton railway station
+&lt;strong&gt;Distance:&lt;/strong&gt; 3 miles&lt;/p&gt;
+
+&lt;p&gt;Radyr is a picturesque village situated near the edge of a cliff over the river Taff.  Before the decline of the coal mining industry in South Wales, Radyr was one of the largest rail hubs in the area allowing coal trains from the Valleys to be re-routed between Cardiff, Penarth and Barry docks.  Now it is the junction point for the main Valley routes and the local City Line service.  The site of the old sidings has now been redeveloped into residential properties, though there are many remnants from the old railway days to be found in the area.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/Radyr2Coryton.jpg&quot; data-lightbox=&quot;radyr2coryton&quot; data-title=&quot;Walk: Radyr to Coryton - The Missing Link&quot;&gt;
+  &lt;img src=&quot;/assets/images/Radyr2Coryton_small.jpg&quot; alt=&quot;Radyr to Coryton via Forest Farm Nature Reserve&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The route of this walk will actually close off the C-shaped route of the City Line train route to Coryton, by exploring the Forest Farm Nature Reserve, the Glamorganshire canal and a disused railway line to Coryton station.  Although from the map, the walking route is more like an S-shape.&lt;/p&gt;
+
+&lt;p&gt;Take the train from Radyr railway station to walk via Forest Farm to Coryton station.&lt;/p&gt;
+
+&lt;p&gt;As you head out of the station car park, take the steps down to the road and turn left to pass under the railway. Continue on and turn right through a kissing gate, the walk down the road to the Cricket Club.&lt;/p&gt;
+
+&lt;p&gt;The footpath passes in front of the clubhouse on the edge of the field so watch out for sixes if there is  match being played!  In the corner climb over into a lovely wild meadow. Here you have a choice of either following the path along the river’s edge or you can cut off the bend by taking
+ a shortcut diagonally across the meadow to the railway bridge.On the other side of the river, continue down the path alongside the back of houses to emerge by the Melingriffith water pump.  This water pump has recently been restored.  Its original purpose was to pump water from the feeder canal to supply the main canal.  Turn left to walk on the pavement until you see the entrance to the Glamorganshire canal on the other side of the road.
+The route now takes you between the main canal and the feeder canal, which makes for a very beautiful walk in all seasons.  There is also plenty of wildlife and birds to spot.  If you are lucky then you may see a few kingfishers.  Where the path splits, continue on the right to go passed an abandoned lock.  The path ends at a second lock where the M4 motorway has been built across the canal, forcing it to pass through a tunnel to reach Tongwynlais.  Walk across the tunnel entrance to ascend steps to the top of the cliff.&lt;/p&gt;
+
+&lt;p&gt;At the top of the cliff you will find a tall arched bridge spanning a disused railway cutting which has again been blocked off by the M4.  Descend down into the cutting and follow the old trackbed all the way to an identical arched bridge.  Just cross over the road to reach Coryton station.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 16 Jul 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/walk/radyr-coryton/</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/walk/radyr-coryton/</guid>
+        
+        
+        <category>walk</category>
+        
+      </item>
+    
+      <item>
+        <title>A Scenic walk from Cardiff Central to the Bay</title>
+        <description>&lt;p&gt;&lt;strong&gt;Start:&lt;/strong&gt; Cardiff Central – main Wood St. entrance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;End:&lt;/strong&gt; Cardiff Bay station&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Distance:&lt;/strong&gt; 2.7 miles&lt;/p&gt;
+
+&lt;p&gt;A scenic walk following the river Taff from Cardiff city centre to the bay.
+&lt;!--more--&gt;
+This is a lovely walk leaving the centre of Cardiff and following the final section of the Taff trail to the modern developed area of Cardiff Bay, formerly known as Tiger Bay when it was one of the busiest coal mining ports in the world.  Now it has been redeveloped into a mecca for fine dining, high-class living, entertainment and a business hub.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/ScenicWalkCardiffBay.jpg&quot; data-lightbox=&quot;scenicwalkcardiffbay&quot; data-title=&quot;Walk: Scenic Walk to Cardiff Bay&quot;&gt;
+  &lt;img src=&quot;/assets/images/ScenicWalkCardiffBay_small.jpg&quot; alt=&quot;Scenic walk to Cardiff Bay&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Starting from the main line railway station, this walk will take you on a slightly less urban
+to the waterfront area of Cardiff Bay.  The route starts by crossing the river to follow the Taff trail south in the edge of Grangetown, home to some of Cardiff’s ethnic minority communities and a regular filming location for Doctor Who and Casualty.  Most of the opposite bank of the river is taken up by the Brains brewery, the local beer for the Cardiff and much of the South Wales area.&lt;/p&gt;
+
+&lt;p&gt;Follow the Taff trail until you reach the Penarth road bridge opposite Big Yellow Self-Storage. Cross the road at the pedestrian crossing and continue until you reach the Clarence bridge, where you should cross the road and turn left across the bridge. Take the next right to follow the road along the opposite bank of the river. At the end of the road, go through the turnstile gate into Hamadryad Park. You now have the option of taking the direct route straight across the park or a slightly wider loop around the edge – both will emerge at another gate underneath the dual carriageway flyover.&lt;/p&gt;
+
+&lt;p&gt;Follow the path up to cross over the roundabout at the entrance to the yacht club, then  enter the Cardiff Bay Wetlands area.  This area has been designated to protect all the natural wildlife of the bay which has been established since the construction of the Barrage which caused the conversion of the area from a saltwater estuary to a freshwater lake.  You will exit the wetland area into the car park for the St. David’s Hotel which is one of the iconic landmarks for Cardiff Bay due to its impressive sail-design roof.  Walk through the car park and carry on until you reach the dockside of one of the remaining docks.&lt;/p&gt;
+
+&lt;p&gt;As you walk along the dockside, you will notice tracks in the paving which were used by loading cranes to move up and down the dock. Some of the cranes have been left in place to commemorate the former use of the area during the boom times of the coal industry.   At the end of the dock, follow the path around the dock to the right, walking passed Techniquest and the end of another dock and into the Mermaid Quay district of cafes, bars, restaurants, galleries and shops. A common meeting point for groups is outside the Terra Nova bar, named after the ship which sailed Captain Scott and his crew on their ill-fated expedition to Antarctica.  Its worth exploring the interior of the bar which is furnished as though it were an old sailing ship.&lt;/p&gt;
+
+&lt;p&gt;From the Terra Nova, continue to walk along the quayside until you reach a footbridge over the Oval Basin which was created out of an old dock.  This is where many seasonal events are held throughout the year.  It is also often referred to as “Torchwood HQ” after the fictional TV series had based its main  base underneath it.  Walk across the bridge towards the red brick Pierhead Building.  If you walk around the front of the building you will see the Senedd, the debating chamber for the Welsh Assembly.  All the slate used in building the Senedd was mined in the North Wales slate mines.
+Now walk on the left side of the Senedd to face the side entrance of the Wales Millennium Centre which is used for concerts, plays, operas and a whole variety of other shows.&lt;/p&gt;
+
+&lt;p&gt;To return to Cardiff Central, there is a regular bendy-bus service from the bus stops next to the Millennium Centre.  If you prefer the train, then cross the road and continue walking along the pedestrian area until you see Cardiff Bay station ahead.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Jun 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/walk/scenicwalk-cardiffbay/</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/walk/scenicwalk-cardiffbay/</guid>
+        
+        
+        <category>walk</category>
+        
+      </item>
+    
+      <item>
+        <title>Group discounts for rail and bus travel</title>
+        <description>&lt;p&gt;If you are walking with a few friends then it may appear more expensive to travel by train than by contributing to a car share.  However many train operators give discounts for fare prices for small groups of 3, 4 or more people and also for larger groups of 10 or more.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.arrivatrainswales.co.uk/GroupTravel/&quot;&gt;Arriva Trains Wales&lt;/a&gt; offer a 25% discount on individual tickets when travelling in a small group within their own network. Please see their group travel policy:-&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://cardiffbus.com/english/page.shtml?pageid=621&quot;&gt;Cardiff Bus&lt;/a&gt; offer group travel on Sundays and evenings for £6 if you are in a group of 4 people.  This would make it relatively cheap for four people to meet in the centre of Cardiff to travel by bus to Wenvoe, to walk through the Vale’s picturesque scenery to Barry Island for some coastal scenery before taking a return bus to Cardiff.&lt;/p&gt;
+</description>
+        <pubDate>Wed, 03 Jun 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/blog/2015/06/03/grouptraveldiscounts.html</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/blog/2015/06/03/grouptraveldiscounts.html</guid>
+        
+        
+        <category>blog</category>
+        
+      </item>
+    
+      <item>
+        <title>Bute Park Horseshoe</title>
+        <description>&lt;p&gt;&lt;strong&gt;Start:&lt;/strong&gt; Cardiff Central – main Wood St. entrance.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;End:&lt;/strong&gt; Cathays station.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Distance:&lt;/strong&gt; 3.4 miles.
+&lt;!-- more --&gt;
+A refreshing walk around the Bute Park arboretum.&lt;/p&gt;
+
+&lt;p&gt;Bute Park is Cardiff’s answer to Hyde Park in London and Central Park in New York, providing green open spaces for city dwellers to walk, cycle, run and play.  The river Taff flows along the park’s border giving an idyllic riverside experience.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/assets/images/ButeParkHorseshoe.jpg&quot; data-lightbox=&quot;buteparkhorseshoe&quot; data-title=&quot;Walk: Bute Park Horseshoe&quot;&gt;
+  &lt;img src=&quot;/assets/images/ButeParkHorseshoe_small.jpg&quot; alt=&quot;Bute Park Horseshoe&quot; /&gt;
+&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Exit the rail station on the left and cross over the road at the pedestrian crossing. After crossing the river Taff, turn right to follow the Taff trail along the Taff Embankment northbound.  The Millennium stadium on the opposite bank is the home ground of the Wales rugby team with a seating capacity for 80000 people.  Continue walking passed the Nos Da hostel/bar as the path inclines slightly to join a gravel path.  This will take you underneath the Cowbridge road bridge and into Sophia Gardens on the other side.  Note that the path under the bridge may be impassable when the water level is high, so you may need to use the pedestrian crossing on the road above.&lt;/p&gt;
+
+&lt;p&gt;Follow the path up to the Millennium Footbridge which is one of the entry points into Bute Park on the other side of the river, however this route will continue along the western bank passed the Swalec Cricket stadium, through Pontcanna Fields to cross over at the Blackweir foot bridge.  This bridge is suspended so it has a tendency to sway if there is too much movement or weight on it!  Blackweir is the first of three weirs in the tidal section of the river, the other two being at Llandaff and Radyr.  It is a popular spot for picnics, fishing and swimming in the summer months.
+After crossing the river, turn right through the iron gate to enter Bute Park from the northern entrance.  From this point, you can choose to either continue along the tarmac path or take the narrower path through the woods.  If you follow the main path, then you will see some impressive wood-carved sculptures out of fallen and standing tree trunks.  The main path will meander around the edge of rugby fields to bring you to the Arboretum area of the park which is host to a various species of trees. Once again, you have the option of walking amongst the trees and reading the information panels.  Return to the main path on the eastern side of the Millennium Footbridge where there is an outdoor cafe/bistro.
+Following on the same side of the river, the path passes through the cultivate section of the park which is very colourful in the summer months.  When the path reaches forks, take the left-hand fork to cross Cooper’s Field which is sometimes the location for a circus, the Eisteddfod and other events.  On the right side of the path, there is a stone circle, though on a much smaller scale than Stonehenge.  Continue to follow the path in the same direction, passing the walls of Cardiff Castle on your right, to exit the park at the eastern gate.&lt;/p&gt;
+
+&lt;p&gt;Turn right to go down into the subway under the dual carriageway to emerge outside the Law Courts. Continue again to pass in front of the City Hall with the dome and then the National Museum of Wales.   Cross over the road and walk along Park Place, passed the Students Union until you reach Cathays station.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 May 2015 00:00:00 +0100</pubDate>
+        <link>http://www.drivefreewalks.org.uk/walk/butepark-circular/</link>
+        <guid isPermaLink="true">http://www.drivefreewalks.org.uk/walk/butepark-circular/</guid>
+        
+        
+        <category>walk</category>
+        
+      </item>
+    
+  </channel>
+</rss>
