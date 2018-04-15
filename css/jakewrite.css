@@ -1,0 +1,210 @@
+@import url("http://fonts.googleapis.com/css?family=Ubuntu");
+body {
+  font-family: Ubuntu;
+}
+
+.post-content h1,
+.post-content h2,
+.post-content h3 {
+  font-weight: 500;
+  color: #bbf;
+}
+
+.header .site-title {
+  font-weight: 550;
+  font-size: 32px;
+  text-decoration: none;
+  padding: 10px;
+  margin: 20px;
+}
+
+.header .site-desc {
+  margin-left: 30px;
+  padding: 2px;
+  color: #337ab7;
+}
+
+nav.navbar {
+  background-color: #ddf;
+  padding: 10px;
+}
+
+nav.navbar .container-fluid #mainbar ul.nav li a {
+  font-size: 150%;
+  border-radius: 5px;
+}
+
+nav.navbar .container-fluid #mainbar ul.nav li a:hover {
+  background-color: #eef;
+}
+
+nav.navbar .container-fluid #mainbar ul.nav li.active a {
+  background-color: #eef;
+  color: #d00;
+}
+
+.container .rightsidebar {
+  float: right;
+}
+
+.container .rightsidebar .category-list {
+  margin-top: 20px;
+  list-style-type: none;
+}
+
+.container .rightsidebar .category-list a {
+  text-decoration: none;
+  font-size: 14pt;
+  margin: 4px;
+  padding: 10px 0;
+}
+
+.container .content .post-header {
+  padding: 12px;
+  background-color: #eef;
+  padding: 2px;
+  margin-bottom: 15px;
+  border-radius: 8px;
+}
+
+.container .content .post-header .post-metadata {
+  padding: 6px;
+}
+
+.container .content .post-header .post-metadata .post-date, .container .content .post-header .post-metadata .post-author {
+  font-size: 12pt;
+  font-weight: bold;
+}
+
+.container .content .post-header .post-comments {
+  float: right;
+  margin-right: 20px;
+}
+
+.container .content .post-header .post-comments a.comment-count {
+  margin-left: 5px;
+  font-weight: 700;
+  color: #000;
+  text-decoration: none;
+}
+
+.container .content div.post-image {
+  float: left;
+  margin: 15px;
+}
+
+.container .content div.post-image img {
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px #aaa;
+}
+
+.container .content div.post-content {
+  margin-bottom: 30px;
+}
+
+.container .content div.post-content p {
+  font-size: 12pt;
+  font-weight: 200;
+  line-height: 1.6em;
+}
+
+.container .content div.post-content ul {
+  background-color: #eef;
+  border-radius: 8px;
+  list-style-position: inside;
+  margin: 0.7em;
+  padding: 8px;
+}
+
+.container .content div.post-content ul li {
+  font-size: 12pt;
+  padding: 5px 0;
+}
+
+.post-list {
+  background-color: #eef;
+  padding: 14px;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.post-list .post-comments {
+  float: right;
+  margin-right: 20px;
+}
+
+.post-list .post-comments a.comment-count {
+  margin-left: 5px;
+  font-weight: 700;
+  color: #000;
+  text-decoration: none;
+}
+
+.post-list .post-metadata {
+  padding: 6px;
+}
+
+.post-list .post-metadata .post-date, .post-list .post-metadata .post-author {
+  font-size: 10pt;
+  font-weight: bold;
+}
+
+.post-list .post-summary {
+  width: 90%;
+  padding: 6px;
+  font-size: 11pt;
+}
+
+.post-list .post-summary .post-image {
+  float: left;
+  margin: 2px 8px;
+}
+
+.post-list .post-summary .post-image img {
+  border-radius: 10px;
+  box-shadow: 3px 3px 3px #aaa;
+}
+
+div.page-content {
+  margin-bottom: 30px;
+}
+
+div.page-content p {
+  font-size: 14pt;
+  font-weight: 200;
+  line-height: 1.5em;
+}
+
+div.page-content ul {
+  border-radius: 10px;
+  background-color: #dfd;
+  list-style-position: inside;
+  margin: 0.7em;
+  padding: 10px;
+}
+
+div.page-content ul li {
+  font-size: 12pt;
+  padding: 2px 0;
+}
+
+.social-links {
+  clear: both;
+}
+
+.social-links a {
+  margin-right: 8px;
+}
+
+div.contact-form {
+  padding: 10px;
+  background-color: #ccf;
+  border-radius: 15px;
+  box-shadow: 10px 10px 5px #bbf;
+}
+
+#footer {
+  margin-top: 20px;
+  font-size: 10pt;
+}

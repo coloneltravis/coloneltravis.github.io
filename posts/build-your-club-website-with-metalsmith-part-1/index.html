@@ -1,0 +1,74 @@
+<!DOCTYPE html><html lang="en"><head><meta charset="utf-8"><meta http-equiv="X-UA-Compatible" content="IE=edge"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="stylesheet" href="/css/bootstrap.min.css" type="text/css"><link rel="stylesheet" href="/css/jakewrite.css" type="text/css"><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script><script type="text/javascript" src="/js/bootstrap.min.js"></script><title>Build Your Club Website with Metalsmith - Part 1</title><title>JakeWrite</title><body><div class="header"><a href="/" class="site-title">Jake Write </a><div class="site-desc">A Writing Blog for Jake Bourne</div></div><nav role="banner" class="navbar navbar-default"><div class="container-fluid"><div class="navbar-header"><button type="button" data-toggle="collapse" data-target="#mainbar" aria-expanded="false" aria-controls="mainbar" class="navbar-toggle collapsed"><span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span></button></div><div id="mainbar" class="collapse navbar-collapse"><ul class="nav navbar-nav"><li><a href="/pages/blog">Blog</a></li><li><a href="/pages/work-with-me">Work with me</a></li><li><a href="/pages/about-me">About me</a></li><li><a href="/pages/contact-me">Contact me</a></li></ul></div></div></nav><div class="container"><div class="row"><div class="rightsidebar col-xs-12 col-sm-3 col-md-3"><h2>Categories</h2><ul class="category-list"><li><a href="/pages/techie-stuff">Techie stuff</a></li><li><a href="/pages/fiction">Fiction</a></li><li><a href="/pages/how-to-guides">How-to Guides</a></li><li><a href="/pages/running">Running</a></li><li><a href="/pages/walking">Walking</a></li></ul><h2>Subscribe<a href="/feed.xml"> via RSS</a></h2></div><div class="content col-xs-12 col-sm-9 col-md-9"><h1>Build Your Club Website with Metalsmith - Part 1</h1><div class="post-header"><div class="post-comments"><span class="glyphicon glyphicon-comment"></span><a href="/posts/build-your-club-website-with-metalsmith-part-1/#disqus_thread" data-disqus-identifier="build-your-clubwebsite-1" class="comment-count">Build Your Club Website with Metalsmith - Part 1</a></div><div class="post-metadata"><div class="post-date">Published: 15 November 2016</div><div class="post-author">By Jake Bourne</div></div></div><div class="post-content"><p><em><strong>Most web officers of new clubs tend to opt for a CMS like Wordpress to manage their club&#39;s website.
+Some may choose a hosted solution from the likes of Weebly or Wix. 
+However, what they fail to realise is that a CMS resides in a database which can be sluggish with a high volume of users and open to attacks by hackers.</strong></em></p>
+<p><strong>Metalsmith</strong> is a static website generator which allows fast and secure static web sites to be generated as simply as with  a Content Management System (CMS). </p>
+<p>All web pages are pre-built from source files so they can be copied to a web server. Metalsmith is, in effect, a file processor since it takes in a set of input files, transforms them and produces output files.</p>
+<p>As no database is required it removes a major security threat and takes an extra hop out of the process to access a web page. </p>
+<p>Traditionally, building a static web site involved typing and copying lots of HTML and CSS code. Metalsmith reduces this task to the creation of layout templates which can then be merged with the content itself to produce the final page.</p>
+<p>The majority web sites do not require a complete CMS manage their content. A database is designed to handle normalised data records  for people management and stock control systems.
+A CMS database stores large amounts of unstructured text and binary images.</p>
+<p>Before you write off static web sites as too difficult to implement, have a read of this how-to guide on how to build your website with Metalsmith.</p>
+<h2 id="installing-metalsmith">Installing Metalsmith</h2>
+<p>Metalsmith was developed in Node.js which is a modern language based on Javascript. If you don&#39;t already have it installed on your system, head to <a href="https://nodejs.org/">https://nodejs.org/</a> to download it, extract the archive and run the install scripts.</p>
+<p>Once Node.js is installed, open a Command Prompt window. Node.js is a CLI (command-line interface) language like Ruby and Python.  Node.js uses the Node Package Manager (npm) to install and manage packages.</p>
+<p>Let&#39;s get started and create the structure for our club website.</p>
+<ul>
+<li>In a suitable folder, create a new folder:  <code>mkdir myclubwebsite</code></li>
+<li><p>Now go into the new folder and run the command: <code>npm init</code></p>
+<p>  This will initialise a Node.js application by creating a package.json file, which contains main configuration information for your app.</p>
+</li>
+<li><p>Create a sub-folder to store all your source files: <code>mkdir src</code></p>
+</li>
+<li>Create a sub-folder where Metalsmith can place the final build of your website: <code>mkdir build</code></li>
+<li>You are now ready to install the Metalsmith package: <code>npm install metalsmith --save-dev</code></li>
+</ul>
+<p>The <code>--save-dev</code> option will save the package in a sub-folder and keep a record of in the <code>package.json</code> file.</p>
+<h2 id="setting-up-your-website">Setting up your website</h2>
+<p>One of the unique features of Metalsmith is that is that everything is a plugin connected to each other. Each plugin is chained to its preceding one which passes it a full list of files and application data to perform its task.  Such tasks may include converting Markdown to HTML, resizing images or processing CSS. But first, we need to create a build script to build our website.</p>
+<p>Open your favourite text editor and type the following code:- </p>
+<pre><code>var Metalsmith = require(&#39;metalsmith&#39;),
+var markdown = require(&#39;metalsmith-markdown&#39;),
+var pug = require(&#39;metalsmith-pug&#39;),
+var layouts = require(&#39;metalsmith-layouts&#39;),
+var serve = require(&#39;metalsmith-serve&#39;);
+
+Metalsmith(__dirname)
+    .source(&#39;./src&#39;)
+    .use(markdown())
+    .use(layouts(&#39;pug&#39;))
+    .use(serve({port:8080}))
+    .destination(&#39;./build&#39;)
+    .build(function (err) { if(err) console.log(err) })
+</code></pre><p>Save the code in a file called <code>build.js</code> in the <em>myclubwebsite</em> folder.</p>
+<p>You will notice that there are a few extra plugins which we have not yet installed. Let&#39;s do that now by using <em>npm install</em></p>
+<pre><code>npm install metalsmith-markdown --save-dev
+npm install metalsmith-pug --save-dev
+npm install metalsmith-layouts --save-dev
+npm install metalsmith-serve --save-dev
+</code></pre><p>Now, you may be wondering what actions each of these plugins do.</p>
+<p><strong>Markdown</strong> is a simplified markup language which you will use to edit your site content. The <em>metalsmith-markdown</em> plugin will process your Markdown files and turn them into HTML so they can be viewed in a web browser.</p>
+<p><strong>Pug</strong> is a powerful templating language which you will use to define the layout of your site. Pug will analyse your source files and arrange them according to their content type.  The <em>metalsmith-layouts</em> and <em>metalsmith-pug</em> plugins work together. There are also other templating languages which could be used instead, such as Handlebars or Liquid.</p>
+<p>The last plugin, <em>metalsmith-serve</em>, will provide you with a local web server which you can use immediately to view your website by navigating to <a href="http://localhost:8080/">http://localhost:8080/</a> in a web browser.</p>
+<p>You are now ready to build your website by running the build.js script with the Node interpreter.
+Type and run <code>node build.js</code> on the command line.</p>
+<p>There&#39;s not much to see yet since we have not created any content.  In the next section we will start to plan how to layout  our club website.</p>
+</div><div class="social-links"><a href="https://www.facebook.com/sharer/sharer.php?u=http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-1"><img src="/img/icons/facebook.png"/></a><a href="https://twitter.com/intent/tweet?status=@jake_write http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-1"><img src="/img/icons/Twitter-32.png"/></a><a href="https://plus.google.com/share?url=http://jakewrite.com/posts/build-your-club-website-with-metalsmith-part-1"><img src="/img/icons/googleplus.png"/></a></div><div class="comments"><div id="disqus_thread"></div><script>var disqus_shortname = 'jakewrite';
+
+var disqus_config = function() {
+  this.page.url = 'http://jakewrite.com/' + 'posts/build-your-club-website-with-metalsmith-part-1';
+  this.page.identifier = 'build-your-clubwebsite-1';
+};
+
+(function() {
+  var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+  dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+  (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+})();</script><noscript>Please enable JavaScript to view the<a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">comments powered by<span class="logo-disqus">Disqus</span></a></div><div id="footer"><p>Copyright &copy; 2016 JakeWrite</p></div><script id="dsq-count-scr" src="//jakewrite.disqus.com/count.js" async></script></div></div></div></body></head></html><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-46793855-5', 'auto');
+  ga('send', 'pageview');
+</script>
